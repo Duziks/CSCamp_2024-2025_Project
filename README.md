@@ -5,7 +5,7 @@
 ### 博客链接
 
 * **杜中坤** https://duziks.github.io/
-* **龙禺辰**
+* **龙禺辰** https://lautisticyc.github.io/
 * **包华贺** https://october1314520.github.io/
 * **王亦寒** https://hsezlyc.github.io/
 
